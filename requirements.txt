@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 altair==6.0.0
 asgiref==3.11.0
 attrs==26.1.0
@@ -54,3 +55,12 @@ tzdata==2025.3
 urllib3==2.6.3
 watchdog==6.0.0
 
+=======
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
+matplotlib
+seaborn
+>>>>>>> ddf2065c72aaaf8f69bdbb99dbb754e75d6cc80c
